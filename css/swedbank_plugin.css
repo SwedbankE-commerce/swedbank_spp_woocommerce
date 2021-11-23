@@ -1,0 +1,3 @@
+.payment_box.payment_method_swedbank_v3_card_lt, .payment_box.payment_method_swedbank_v3_card_lv, .payment_box.payment_method_swedbank_v3_card_ee{
+    display: none!important;
+}
